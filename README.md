@@ -46,6 +46,13 @@ This app was built around the book **"Tiranosaurio Rex — El increíble mundo d
 
 ---
 
+## Developers
+
+* **Dylan Ferreyra** - [GitHub](https://github.com/DylanGonzaloFerreyra) | [LinkedIn](https://www.linkedin.com/in/dylan-gonzalo-ferreyra/)
+* **Joaquín Iannini** - [LinkedIn](https://www.linkedin.com/in/joaquin-iannini-30a6aa328/) | [Email](mailto:joaquin.iannini@gmail.com)
+
+---
+
 ## License
 
 This project is for educational and demonstrational purposes.  
